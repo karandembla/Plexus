@@ -107,7 +107,7 @@ return that;
 };
 var anim = ANIM({
 id: "bodymovin",
-path: "https://rhubarb-soybean-amjf.squarespace.com/s/Plexus.json",
+path: "/Plexus.json",
 count: 1
 });
 window.addEventListener("resize", anim.resizing);
