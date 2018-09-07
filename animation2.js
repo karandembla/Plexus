@@ -107,7 +107,7 @@ return that;
 };
 var anim = ANIM({
 id: "bodymovin",
-path: "/Plexus.json",
+path: "https://cdn.rawgit.com/karandembla/Plexus/master/Plexus.json",
 count: 1
 });
 window.addEventListener("resize", anim.resizing);
