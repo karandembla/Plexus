@@ -186,6 +186,7 @@ window.addEventListener("load", function () {
 
     anim.anim.play();
   };
+  
 
   // 9000 - it is intro, from 9000 cycle 6000
 
