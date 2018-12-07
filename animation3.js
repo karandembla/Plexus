@@ -123,7 +123,7 @@ window.addEventListener("load", function() {
 
 	const anim = ANIM({
 		id: "bodymovin",
-		path: "https://rawcdn.githack.com/karandembla/Plexus/923d7274b241aa790259de332589c11d0cae3738/Plexus3.json",
+		path: "https://rawcdn.githack.com/karandembla/Plexus/11a81ed133eed45e7e5c0144db991679631dcaf5/Plexus3.json",
 		count: 1,
 	})
 
